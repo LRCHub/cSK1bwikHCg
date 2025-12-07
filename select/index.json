@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Just the Way You Are [2010 Remix]",
+  "base_artist": "ブルーノ・マーズ",
+  "createdAt": "2025-12-07T08:13:17.664949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/01_Just_the_Way_You_Are_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Milky",
+      "has_synced": true,
+      "path": "select/02_Just_The_Way_You_Are_Milky.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/03_Just_The_Way_You_Are_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "張國榮",
+      "has_synced": true,
+      "path": "select/04_Just_the_Way_You_Are_張國榮.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_Just_the_Way_You_Are_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Milky",
+      "has_synced": false,
+      "path": "select/06_Just_The_Way_You_Are_Milky.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_Just_The_Way_You_Are_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Barry White",
+      "has_synced": true,
+      "path": "select/08_Just_The_Way_You_Are_Barry_White.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Kenny Rogers",
+      "has_synced": true,
+      "path": "select/09_Just_the_Way_You_Are_Kenny_Rogers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/10_Just_the_Way_You_Are_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Caravan",
+      "has_synced": false,
+      "path": "select/11_Just_the_Way_You_Are_Caravan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/12_Just_The_Way_You_Are_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/13_Just_the_Way_You_Are_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Barry White",
+      "has_synced": true,
+      "path": "select/14_Just_The_Way_You_Are_Barry_White.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/15_Just_the_Way_You_Are_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/16_Just_the_Way_You_Are_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just The Way You Are",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/17_Just_The_Way_You_Are_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/18_Just_the_Way_You_Are_Bruno_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just The Way You Are",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Just_The_Way_You_Are_Bruno_Mars.txt"
+    }
+  ]
+}
